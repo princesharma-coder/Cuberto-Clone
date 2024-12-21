@@ -1,4 +1,4 @@
-# Cuberto Website CLone
+# Cuberto Website Clone
 
 ## Features
 
