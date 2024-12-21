@@ -47,7 +47,7 @@ git clone https://github.com/princesharma-coder/Cuberto-Clone.git
 - GSAP (GreenSock Animation Platform)
 - Three.js
 - Remix Icon
-- Control Kit
+- Control Kit (For Debugging)
 
 
 ## Acknowledgments
